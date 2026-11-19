@@ -1,0 +1,6 @@
+{
+  "name": "Urban Loom",
+  "description": "Style Today. Sustain Tomorrow. Affordable, stylish, and sustainable everyday fashion for Gen Z in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
